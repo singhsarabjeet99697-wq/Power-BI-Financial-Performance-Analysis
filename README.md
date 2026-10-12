@@ -5,9 +5,7 @@ This project analyzes sample financial data
 using Microsoft Power BI.
 
 ## Dashboard Preview
-
-![Financial Performance Dashboard]
-(Dashboard.png)
+![Financial Performance Dashboard](Dashboard.png)
 
 The objective is to understand sales performance,
 profitability, and business trends.
