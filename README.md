@@ -10,6 +10,10 @@ using Microsoft Power BI.
 The objective is to understand sales performance,
 profitability, and business trends.
 
+## Download Power BI Dashboard
+
+[Download Power BI Project (.pbix)](Financial_Performance_Analysis.pbix)
+
 ## Tools Used
 - Microsoft Power BI
 - Power Query
